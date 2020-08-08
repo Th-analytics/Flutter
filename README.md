@@ -1,7 +1,4 @@
 # Expence Application
 
+![Expence App](images2.png)
 
-![Expence App](images.png)
-![Expence App](images.png)
-![Expence App](images.png)
-![Expence App](images.png)
